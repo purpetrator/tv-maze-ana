@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/tv-maze-ana/static/css/main.4b4a2e94.chunk.css",
+    "main.js": "/tv-maze-ana/static/js/main.dcd9c709.chunk.js",
+    "main.js.map": "/tv-maze-ana/static/js/main.dcd9c709.chunk.js.map",
+    "runtime-main.js": "/tv-maze-ana/static/js/runtime-main.ceebe14e.js",
+    "runtime-main.js.map": "/tv-maze-ana/static/js/runtime-main.ceebe14e.js.map",
+    "static/js/2.1e071351.chunk.js": "/tv-maze-ana/static/js/2.1e071351.chunk.js",
+    "static/js/2.1e071351.chunk.js.map": "/tv-maze-ana/static/js/2.1e071351.chunk.js.map",
+    "index.html": "/tv-maze-ana/index.html",
+    "static/css/main.4b4a2e94.chunk.css.map": "/tv-maze-ana/static/css/main.4b4a2e94.chunk.css.map",
+    "static/js/2.1e071351.chunk.js.LICENSE.txt": "/tv-maze-ana/static/js/2.1e071351.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ceebe14e.js",
+    "static/js/2.1e071351.chunk.js",
+    "static/css/main.4b4a2e94.chunk.css",
+    "static/js/main.dcd9c709.chunk.js"
+  ]
+}
