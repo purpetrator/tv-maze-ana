@@ -1,0 +1,113 @@
+#epiBtn {
+  background-color: #284069;
+  color: white;
+  font-size: 10pt;
+  margin: 6px 0px;
+  padding: 4px 14px;
+}
+#searchBtn {
+  background-color: #284069;
+  color: white;
+}
+.btn {
+  border-radius: 6px;
+  margin: 50px 20px;
+  min-width: 100px;
+  padding: 12px 0px;
+}
+.card {
+  background-color: #f2f3f8;
+  border: none;
+  border-radius: 4px;
+  display: flex;
+  flex-direction: row;
+  height: 220px;
+  margin: 40px 10px;
+}
+.card-body {
+  color: #5f6266;
+  flex: 1 1 auto;
+  padding: 1.5rem 8rem 2rem 4rem;
+}
+.cardsDiv {
+  display: flex;
+  margin: 0 auto;
+  width: 75%;
+}
+.card-title {
+  color: #284069;
+  font-size: 20pt;
+  font-weight: bold;
+}
+.inputField {
+  background-color: #f2f3f8;
+  border-radius: 6px;
+  padding-left: 20px;
+  width: 60%;
+}
+.mainDiv {
+  background-color: white;
+  border-radius: 10px;
+  margin: 25px auto;
+  min-height: 50vh;
+  width: 90%;
+}
+.navbar {
+  background-color: #284069;
+  color: white;
+  padding: 10px 20px;
+}
+.searchBar {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+.searchIcon {
+  border: none;
+  font-size: 16pt;
+  margin: 0;
+  margin: none;
+  padding: 0;
+  pointer-events: none;
+}
+.summaryText {
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+body {
+  background-color: #f2f3f8;
+}
+form {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+img {
+  border-radius: 10px !important;
+  height: 275px;
+  left: 20px;
+  max-width: 190px;
+  position: relative;
+  top: -23px;
+}
+input {
+  background-color: #f2f3f8;
+  border: none;
+  border-radius: 6px;
+  padding: 15px 20px;
+  width: 90%;
+}
+input:focus,
+button:focus,
+button:active,
+button:hover {
+  box-shadow: none !important;
+  outline: 0px !important;
+}
+p {
+  font-size: 10pt;
+  height: 80px;
+  overflow: hidden;
+  padding-right: 30px;
+  text-overflow: ellipsis;
+}
